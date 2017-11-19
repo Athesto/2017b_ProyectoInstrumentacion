@@ -6,8 +6,6 @@
  - [Jekyll DOC](http://import.jekyllrb.com/docs/home/) 
  - [Themes](http://jekyllthemes.org/)
 
-
-
 # Page
 ### Instalación [Pendiente]
  - Instalar El programa de Arduino
@@ -25,6 +23,6 @@
 #### Board
 
 ### Integrantes [Pendiente]
- - Est1
- - Est2
- - Est3
+ - David Escalante
+ - Jose Lamadrid
+ - Aldair Benavides
