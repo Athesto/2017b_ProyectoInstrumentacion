@@ -1,2 +1,6 @@
 desktop.ini
 *.tmp
+*.epf
+*.pro
+*.job
+*.*#*
