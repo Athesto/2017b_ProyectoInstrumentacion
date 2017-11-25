@@ -1,12 +1,6 @@
-# Development
-## Links de interés
- - [Theme Template](https://pages-themes.github.io/slate/)
- - [Online Editor](https://stackedit.io/editor#)
- - [Theme Manual](https://github.com/pages-themes/slate)
- - [Jekyll DOC](http://import.jekyllrb.com/docs/home/) 
- - [Themes](http://jekyllthemes.org/)
+    Novedades:
+    [11-25] Ya montamos las primeras imagenes de en las Galerias
 
-# Page
 ### Instalación [Pendiente]
  - Instalar El programa de Arduino
  - Descargar el archivo Zip
@@ -31,3 +25,11 @@
  - David Escalante
  - Jose Lamadrid
  - Aldair Benavides
+
+# Development
+## Links de interés
+ - [Theme Template](https://pages-themes.github.io/slate/)
+ - [Online Editor](https://stackedit.io/editor#)
+ - [Theme Manual](https://github.com/pages-themes/slate)
+ - [Jekyll DOC](http://import.jekyllrb.com/docs/home/) 
+ - [Themes](http://jekyllthemes.org/)
