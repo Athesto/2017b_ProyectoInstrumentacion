@@ -26,6 +26,12 @@
  - Jose Lamadrid
  - Aldair Benavides
 
+### Selección de sensores. (error estático y dinámico)
+Error de 0.75 en estado transitorio, dado que el aire al interior del contenedor está en constante circulación, por esto la temperatura del contenedor no posee una temperatura totalmente uniforme durante el estado de transición.
+RTD vs termopar- RTD superior en la mayoría de aspectos excepto por la robustez, tamaño, velocidad de respuesta y precio.
+
+
+
 # Development
 ## Links de interés
  - [Theme Template](https://pages-themes.github.io/slate/)
