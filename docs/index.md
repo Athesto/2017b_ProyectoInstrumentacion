@@ -1,11 +1,11 @@
     Novedades:
-    [11-25] Ya montamos las primeras imagenes de en las Galerias
+    [11-25] Ya montamos las primeras imagenes en la Galeria
 
 ### Instalación [Pendiente]
  - Instalar El programa de Arduino
  - Descargar el archivo Zip
 
-### Lista de Materiales (BOM) [Pendiente]
+### Lista de Materiales (BOM)
 
 | Name         			| Documentación |
 |:-------------			|:-----------------|
