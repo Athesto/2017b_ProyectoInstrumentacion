@@ -1,4 +1,5 @@
     Novedades:
+    [12-05] la primera versión del programa esta funcionando
     [11-25] Ya montamos las primeras imagenes en la Galeria
 
 ### Instalación [Pendiente]
@@ -13,6 +14,7 @@
 | Display Oled 			| [datasheet](http://www.buydisplay.com/download/manual/ER-OLED0.96_Series_Datasheet.pdf)|
 | Max6675 	   			| [datasheet](https://cdn-shop.adafruit.com/datasheets/MAX6675.pdf)     |
 | Celda Termoelectrica	| [datasheet](http://peltiermodules.com/peltier.datasheet/TEC1-12706.pdf) |
+| Transistor 2sd325	| [datasheet](http://www.datasheetspdf.com/pdf/629943/SavantIC/2SD325/1) |
 
 ### Galeria [Pendiente]
 #### Esquemático
