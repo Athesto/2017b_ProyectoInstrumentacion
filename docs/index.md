@@ -38,7 +38,7 @@ RTD vs termopar- RTD superior en la mayoría de aspectos excepto por la robustez
 
 ### Adquisición de datos y acondicionamiento de señal (circuitos de acondicionamiento y elementos asociados a las características del procesador).
 
-Se hace uso de un circuito integrado (Max6675) usado como intermediario entre el sensor (termo cúpula) y el controlador (arduino uno) para convertir la señal analógica en una señal digital (ADC). El max6675 hace uso de un amplificador, un diodo de compensación (bloque isotermo), buffer de voltaje y un ADC.
+Se hace uso de un circuito integrado (Max6675) usado como intermediario entre el sensor (termocupla) y el controlador (arduino uno) para convertir la señal analógica en una señal digital (ADC). El max6675 hace uso de un amplificador, un diodo de compensación (bloque isotermo), buffer de voltaje y un ADC.
 El max6675 envía una señal digital al ardiuno, la cual se interpreta por medio de una librería previamente instalada.
 
 
