@@ -1,6 +1,11 @@
     Novedades:
     [11-25] Ya montamos las primeras imagenes en la Galeria
-
+### Integrantes
+ - David Escalante
+ - Jose Lamadrid
+ - Aldair Benavides
+ - Jose Lopez
+ - Tomas Quintero
 ### Instalación 
  - Instalar El programa de Arduino
  - Descargar el archivo Zip
@@ -62,12 +67,7 @@ Prueba del disipador
 Prueba de la unidad de enfriamiento
 
 [![prueba unidad de enfriamiento](https://img.youtube.com/vi/jfa_FpGiS5M/0.jpg)](https://www.youtube.com/watch?v=jfa_FpGiS5M)
-### Integrantes
- - David Escalante
- - Jose Lamadrid
- - Aldair Benavides
- - Jose Lopez
- - Tomas Quintero
+
 
 ## Preguntas Frecuentes ##
 
