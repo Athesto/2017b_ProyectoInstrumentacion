@@ -83,6 +83,10 @@ Prueba de la unidad de enfriamiento
 
 [![prueba unidad de enfriamiento](https://img.youtube.com/vi/jfa_FpGiS5M/0.jpg)](https://www.youtube.com/watch?v=jfa_FpGiS5M)
 
+Equipo trabajando en perfectas condiciones
+
+[![Final test](https://img.youtube.com/vi/4yjja9RJj-U/0.jpg)](https://www.youtube.com/watch?v=4yjja9RJj-U)
+
 
 ## Preguntas Frecuentes ##
 
