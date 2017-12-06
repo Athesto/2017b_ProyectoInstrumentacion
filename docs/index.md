@@ -43,8 +43,7 @@ Prueba del display oled
 
 Prueba del disipador
 
-[![prueba de disipador](https://img.youtube.com/watch?v=Y1n8YhKl0UA.jpg))]
-(https://www.youtube.com/watch?v=Y1n8YhKl0UA)
+[![prueba de disipador](https://img.youtube.com/vi/Y1n8YhKl0UA/0.jpg)](https://www.youtube.com/watch?v=Y1n8YhKl0UA)
 
 ### Integrantes
  - David Escalante
