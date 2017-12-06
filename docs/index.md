@@ -4,6 +4,14 @@
 ### Instalación [Pendiente]
  - Instalar El programa de Arduino
  - Descargar el archivo Zip
+ - Programar el display oled
+ - calibración del sensor de temperatura
+ - Realizar un prototipo del circuito haciendo uso de una protoboar
+ - Fabricación de un shield para el arduino en base al circuito diseñado en la protoboar con sus respectivas mejoras
+ - Fabricación del contenedor e instalación de la unidad de enfriamiento
+ - prueba de la capacidad de enfriamiento a diferentes temperaturas ambiente
+ - Elaboración del programa para tener control sobre el equipo
+ - Pruebas llevadas a cabo haciendo uso del controlador de arduino
 
 ### Descripción del equipo
 Los sistemas de acondicionamiento y refrigeración, son utilizados ampliamente en campos farmacéuticos, químicos e industrias donde se presentan reacciones que dan a condiciones específicas, e incluso en campos que son aparentemente sencillos pero importantes como lo son los alimentos. Es tal la importancia de estos procesos y los avances tecnológicos que suele utilizarse procesos de automatización y control para dichos procesos. 
