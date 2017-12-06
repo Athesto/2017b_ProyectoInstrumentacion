@@ -43,8 +43,7 @@ Prueba del display oled
 
 Prueba del disipador
 
-
-[![Prueba display oled](https://lh3.googleusercontent.com/-Inkc0zpaFRs/WidvivrlQHI/AAAAAAAAAB0/9yJIZgfW004LWSTgIMiPyF3iQkvpRXbBgCLcBGAs/s0/untitled4.png "Disipador exter.png")]
+[![prueba de disipador](https://img.youtube.com/watch?v=Y1n8YhKl0UA.jpg))]
 (https://www.youtube.com/watch?v=Y1n8YhKl0UA)
 
 ### Integrantes
