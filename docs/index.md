@@ -16,6 +16,8 @@ En el siguiente trabajo se presentó un procesos de refrigeración instrumentand
 ![int disipador](https://lh3.googleusercontent.com/-G0lSQLQLhBk/WidutFVk7bI/AAAAAAAAABg/zW4vG8O51oQVxQNJwTwNGVc5epwgvfamgCLcBGAs/s0/untitled2.png "Disipador interno.png")
 ### Disipador externo
 ![larger disip](https://lh3.googleusercontent.com/-Inkc0zpaFRs/WidvivrlQHI/AAAAAAAAAB0/9yJIZgfW004LWSTgIMiPyF3iQkvpRXbBgCLcBGAs/s0/untitled4.png "Disipador exter.png")
+### Botones y transistores
+![Botones](https://lh3.googleusercontent.com/-XpQxvbFEdNA/Widxz86VnYI/AAAAAAAAACc/j5CdzZr9HBAVBGQAIQBKvbKptKJSNCrdACLcBGAs/s0/WhatsApp+Image+2017-11-16+at+20.46.39.jpeg "Botones.jpeg")
 
 ### Lista de Materiales (BOM)
 
