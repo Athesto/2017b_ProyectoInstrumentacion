@@ -6,7 +6,8 @@
  - Descargar el archivo Zip
 
 ### Descripción del equipo
-El equipo está conformado por dos ventiladores de 12 voltios acoplados a aletas disipadoras de aluminio y cobre (uno de estos, ubicado dentro de un recipiente de espuma de poliestireno), una celda peltier tec-12706, una pantalla de visualización de datos “oled”, un sensor de temperatura tipo termocupla, un integrado Max6675 (ADC), tres botones, tres transistores TIP122 (NPN), un relé y un shield para las conexiones.
+Los sistemas de acondicionamiento y refrigeración, son utilizados ampliamente en campos farmacéuticos, químicos e industrias donde se presentan reacciones que dan a condiciones específicas, e incluso en campos que son aparentemente sencillos pero importantes como lo son los alimentos. Es tal la importancia de estos procesos y los avances tecnológicos que suele utilizarse procesos de automatización y control para dichos procesos. 
+En el siguiente trabajo se presentó un procesos de refrigeración instrumentando el cual cuenta con el uso de una termocupla tipo k modelo MAX-6675 el cual posee un gran amplio de trabajo comprendido entre 0-1024°C además de 8 pines, además de ser manipulado por el micro controlador de Arduino utilizado el lenguaje de programación libre y el datasheet del sensor para su correcto funcionamiento, todo con el fin de controlar la temperatura en el interior de una cava mediante el uso de células Peltier, para comprobar y corroborar el uso de métodos de refrigeración alternativo implementando los conocimientos de instrumentación industrial. 
 ### Container
 ![Container](https://lh3.googleusercontent.com/-dVGnJcC9HMQ/Widt-u-fe9I/AAAAAAAAABM/8I6pjBL6984LkZVg_kkHA-H-EDuLsFFxwCLcBGAs/s0/untitled.png "Caba.png")
 ### Arduino y oled
