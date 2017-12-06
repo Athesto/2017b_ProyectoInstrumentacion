@@ -21,7 +21,7 @@
 [![PCB](images/board_Bottom.png)](https://rawgit.com/Athesto/2017b_ProyectoInstrumentacion/fc502c0b/BOARD/BOARD.pdf)
 #### Videos
 [![Prueba display oled](https://img.youtube.com/vi/y6lbMbByo7U/0.jpg)](https://www.youtube.com/watch?v=y6lbMbByo7U)
-### Integrantes [Pendiente]
+### Integrantes
  - David Escalante
  - Jose Lamadrid
  - Aldair Benavides
