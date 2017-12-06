@@ -1,7 +1,7 @@
     Novedades:
     [11-25] Ya montamos las primeras imagenes en la Galeria
 
-### Instalación [Pendiente]
+### Instalación 
  - Instalar El programa de Arduino
  - Descargar el archivo Zip
  - Programar el display oled
