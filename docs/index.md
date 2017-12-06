@@ -1,12 +1,15 @@
     Novedades:
     [11-25] Ya montamos las primeras imagenes en la Galeria
-### Integrantes
- - David Escalante
- - Jose Lamadrid
- - Aldair Benavides
- - Jose Lopez
- - Tomas Quintero
- 
+    
+
+> ### Integrantes
+>  - David Escalante
+>  - Jose Lamadrid
+>  - Aldair Benavides
+>  - Jose Lopez
+>  - Tomas Quintero
+
+
 ### Instalación 
  - Instalar El programa de Arduino
  - Descargar el archivo Zip
