@@ -11,7 +11,7 @@ Los sistemas de acondicionamiento y refrigeración, son utilizados ampliamente e
 En el siguiente trabajo se presentó un procesos de refrigeración instrumentando el cual cuenta con el uso de una termocupla tipo k modelo MAX-6675 el cual posee un gran amplio de trabajo comprendido entre 0-1024°C además de 8 pines, además de ser manipulado por el micro controlador de Arduino utilizado el lenguaje de programación libre y el datasheet del sensor para su correcto funcionamiento, todo con el fin de controlar la temperatura en el interior de una cava mediante el uso de células Peltier, para comprobar y corroborar el uso de métodos de refrigeración alternativo implementando los conocimientos de instrumentación industrial.
 ### Container
 ![Container](https://lh3.googleusercontent.com/-dVGnJcC9HMQ/Widt-u-fe9I/AAAAAAAAABM/8I6pjBL6984LkZVg_kkHA-H-EDuLsFFxwCLcBGAs/s0/untitled.png "Caba.png")
-### Arduino y oled
+### Oled y Shield de arduino
 ![oledshield](https://lh3.googleusercontent.com/-sc1JwO-dLcU/WiduVN1czDI/AAAAAAAAABU/91LvQ8Tt9ZgWagd0NZjMoBWXybH-EusGACLcBGAs/s0/untitled0.png "Oled+shield.png")
 ### Disipador interno
 ![int disipador](https://lh3.googleusercontent.com/-G0lSQLQLhBk/WidutFVk7bI/AAAAAAAAABg/zW4vG8O51oQVxQNJwTwNGVc5epwgvfamgCLcBGAs/s0/untitled2.png "Disipador interno.png")
