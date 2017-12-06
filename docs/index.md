@@ -60,7 +60,9 @@ El max6675 envía una señal digital al ardiuno, la cual se interpreta por medio
 ### Calibración de sensores, cálculo de errores e incertidumbre.
 La calibración del sensor lo hace internamente el arduino, con las librerías internas que están en el, podemos decir lo que esta realizando internamente es lo siguiente, a conocer una de las temperaturas de alguna de las 2 uniones y al hacer la otra unión 0°C, por medio de la ley de temperaturas intermedias y buscando en las tablas conseguir el valor de tensión al que debe estar la termocupla.
 
+## Anécdotas ##
 
+ 1. Durante la fase de pruebas de la unidad de enfriamiento junto con el controlador (arduino), se presento un contratiempo, dado que la celda peltier exige un alto nivel de corriente (4.5 A)  mientras que el transistor restringía el paso de la corriente, la corriente al no poder seguir su camino hacia la celda, Causando una averia en el reculador de voltaje del controlador (arduino).
 
 # Development
 ## Links de interés
