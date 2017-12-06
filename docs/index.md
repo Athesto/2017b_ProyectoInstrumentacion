@@ -2,6 +2,8 @@
     [11-25] Ya montamos las primeras imagenes en la Galeria
     
 
+
+
 > ### Integrantes
 >  - David Escalante
 >  - Jose Lamadrid
