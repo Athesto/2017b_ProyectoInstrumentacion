@@ -85,6 +85,12 @@ void loop() {
   if (millis() > time) {
     time += 500;
     T = (int)thermocouple.readCelsius();
+    display.clearDisplay();
+    display.setCursor(0, 0);
+    sprintf(page, "MODE: %s \nT: %d \nset: %d " , mode, T, setPoint);
+    display.print(page);
+    display.display();
+
   }
 
 
@@ -94,23 +100,11 @@ void loop() {
   if (!digitalRead(DOWN)) {
     delay(100);
     setPoint--;
-    display.clearDisplay();
-    display.setCursor(0, 0);
-    sprintf(page, "MODE: %s \nT: %d \nset: %d " , mode, T, setPoint);
-    display.print(page);
-    display.display();
-    digitalWrite(fan, HIGH);
   }
 
   if (!digitalRead(UP)) {
     delay(100);
     setPoint++;
-    display.clearDisplay();
-    display.setCursor(0, 0);
-    sprintf(page, "MODE: %s \nT: %d \nset: %d " , mode, T, setPoint);
-    display.print(page);
-    display.display();
-    digitalWrite(fan, HIGH);
   }
 
   if (T > setPoint - tolerance) {
