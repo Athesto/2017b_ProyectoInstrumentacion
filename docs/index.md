@@ -6,7 +6,7 @@
  - Descargar el archivo Zip
  - Programar el display oled
  - calibración del sensor de temperatura
- - Realizar un prototipo del circuito haciendo uso de una protoboar
+ - Realización un prototipo del circuito haciendo uso de una protoboard
  - Fabricación de un shield para el arduino en base al circuito diseñado en la protoboar con sus respectivas mejoras
  - Fabricación del contenedor e instalación de la unidad de enfriamiento
  - prueba de la capacidad de enfriamiento a diferentes temperaturas ambiente
