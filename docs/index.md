@@ -6,6 +6,7 @@
  - Aldair Benavides
  - Jose Lopez
  - Tomas Quintero
+ 
 ### Instalación 
  - Instalar El programa de Arduino
  - Descargar el archivo Zip
