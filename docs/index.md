@@ -1,5 +1,4 @@
     Novedades:
-    [12-05] la primera versión del programa esta funcionando
     [11-25] Ya montamos las primeras imagenes en la Galeria
 
 ### Instalación [Pendiente]
@@ -14,7 +13,6 @@
 | Display Oled 			| [datasheet](http://www.buydisplay.com/download/manual/ER-OLED0.96_Series_Datasheet.pdf)|
 | Max6675 	   			| [datasheet](https://cdn-shop.adafruit.com/datasheets/MAX6675.pdf)     |
 | Celda Termoelectrica	| [datasheet](http://peltiermodules.com/peltier.datasheet/TEC1-12706.pdf) |
-| Transistor 2sd325	| [datasheet](http://www.datasheetspdf.com/pdf/629943/SavantIC/2SD325/1) |
 
 ### Galeria [Pendiente]
 #### Esquemático
@@ -27,11 +25,25 @@
  - David Escalante
  - Jose Lamadrid
  - Aldair Benavides
+ - Jose Lopez
+ - Tomas Quintero
+
+## Preguntas Frecuentes ##
 
 ### Selección de sensores. (error estático y dinámico)
 Error de 0.75 en estado transitorio, dado que el aire al interior del contenedor está en constante circulación, por esto la temperatura del contenedor no posee una temperatura totalmente uniforme durante el estado de transición.
 
+
 RTD vs termopar- RTD superior en la mayoría de aspectos excepto por la robustez, tamaño, velocidad de respuesta y precio.
+
+### Adquisición de datos y acondicionamiento de señal (circuitos de acondicionamiento y elementos asociados a las características del procesador).
+
+Se hace uso de un circuito integrado (Max6675) usado como intermediario entre el sensor (termo cúpula) y el controlador (arduino uno) para convertir la señal analógica en una señal digital (ADC). El max6675 hace uso de un amplificador, un diodo de compensación (bloque isotermo), buffer de voltaje y un ADC.
+El max6675 envía una señal digital al ardiuno, la cual se interpreta por medio de una librería previamente instalada.
+
+
+### Calibración de sensores, cálculo de errores e incertidumbre.
+La calibración del sensor lo hace internamente el arduino, con las librerías internas que están en el, podemos decir lo que esta realizando internamente es lo siguiente, a conocer una de las temperaturas de alguna de las 2 uniones y al hacer la otra unión 0°C, por medio de la ley de temperaturas intermedias y buscando en las tablas conseguir el valor de tensión al que debe estar la termocupla.
 
 
 
