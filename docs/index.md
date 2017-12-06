@@ -41,10 +41,15 @@ Prueba del display oled
 [![Prueba display oled](https://img.youtube.com/vi/y6lbMbByo7U/0.jpg)](https://www.youtube.com/watch?v=y6lbMbByo7U)
 
 
+
 Prueba del disipador
 
 [![prueba de disipador](https://img.youtube.com/vi/Y1n8YhKl0UA/0.jpg)](https://www.youtube.com/watch?v=Y1n8YhKl0UA)
 
+
+Prueba de la unidad de enfriamiento
+
+[![prueba unidad de enfriamiento](https://img.youtube.com/vi/jfa_FpGiS5M/0.jpg)](https://www.youtube.com/watch?v=jfa_FpGiS5M)
 ### Integrantes
  - David Escalante
  - Jose Lamadrid
