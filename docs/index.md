@@ -63,6 +63,7 @@ La calibración del sensor lo hace internamente el arduino, con las librerías i
 ## Anécdotas ##
 
  1. Durante la fase de pruebas de la unidad de enfriamiento junto con el controlador (arduino), se presento un contratiempo, dado que la celda peltier exige un alto nivel de corriente (4.5 A)  mientras que el transistor restringía el paso de la corriente, la corriente al no poder seguir su camino hacia la celda, Causando una averia en el reculador de voltaje del controlador (arduino).
+ 2. Al realizar el prototipo del circuito haciendo uso de la protoboard, un par de cables que no estaban completamente aislados, hicieron contacto, de tal forma que se cerro el circuito, sin ninguna resistencia, ocasionando un corto circuito, el cual tuvo como consecuencia una avería catastrófica en el transistor de prueba.
 
 # Development
 ## Links de interés
