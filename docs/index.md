@@ -1,5 +1,6 @@
     Novedades:
-    [11-25] Ya montamos las primeras imagenes en la Galeria
+    [11-25] Montaje de primeras imagenes en la Galeria
+    [27-30] Montaje de videos
     
 
 ## Instrumentación de un sistema de enfriamiento para aclimatación de alimentos ##
