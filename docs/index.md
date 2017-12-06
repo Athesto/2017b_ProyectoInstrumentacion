@@ -7,7 +7,14 @@
 
 ### Descripción del equipo
 El equipo está conformado por dos ventiladores de 12 voltios acoplados a aletas disipadoras de aluminio y cobre (uno de estos, ubicado dentro de un recipiente de espuma de poliestireno), una celda peltier tec-12706, una pantalla de visualización de datos “oled”, un sensor de temperatura tipo termocupla, un integrado Max6675 (ADC), tres botones, tres transistores TIP122 (NPN), un relé y un shield para las conexiones.
-
+### Container
+![Container](https://lh3.googleusercontent.com/-dVGnJcC9HMQ/Widt-u-fe9I/AAAAAAAAABM/8I6pjBL6984LkZVg_kkHA-H-EDuLsFFxwCLcBGAs/s0/untitled.png "Caba.png")
+### Arduino y oled
+![oledshield](https://lh3.googleusercontent.com/-sc1JwO-dLcU/WiduVN1czDI/AAAAAAAAABU/91LvQ8Tt9ZgWagd0NZjMoBWXybH-EusGACLcBGAs/s0/untitled0.png "Oled+shield.png")
+### Disipador interno
+![int disipador](https://lh3.googleusercontent.com/-G0lSQLQLhBk/WidutFVk7bI/AAAAAAAAABg/zW4vG8O51oQVxQNJwTwNGVc5epwgvfamgCLcBGAs/s0/untitled2.png "Disipador interno.png")
+### Disipador externo
+![larger disip](https://lh3.googleusercontent.com/-Inkc0zpaFRs/WidvivrlQHI/AAAAAAAAAB0/9yJIZgfW004LWSTgIMiPyF3iQkvpRXbBgCLcBGAs/s0/untitled4.png "Disipador exter.png")
 
 ### Lista de Materiales (BOM)
 
