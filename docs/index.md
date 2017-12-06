@@ -20,6 +20,11 @@ En el siguiente trabajo se presentó un procesos de refrigeración instrumentand
 ### Botones y transistores
 ![Botones](https://lh3.googleusercontent.com/-XpQxvbFEdNA/Widxz86VnYI/AAAAAAAAACc/j5CdzZr9HBAVBGQAIQBKvbKptKJSNCrdACLcBGAs/s0/WhatsApp+Image+2017-11-16+at+20.46.39.jpeg "Botones.jpeg")
 
+Soldado Shield de arduino
+
+
+![Shield](https://i.imgur.com/Q6Vc8y2.jpg)
+
 ### Lista de Materiales (BOM)
 
 | Name         			| Documentación |
