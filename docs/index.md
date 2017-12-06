@@ -36,7 +36,7 @@ En el siguiente trabajo se presentó un procesos de refrigeración instrumentand
 
 ![Shield](https://i.imgur.com/Q6Vc8y2.jpg)
 
-### Instalación 
+### Paso a paso
  - Instalar El programa de Arduino
  - Descargar el archivo Zip
  - Programar el display oled
